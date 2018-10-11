@@ -5,4 +5,4 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 Branch is so quick.
 Creating a new branch is quick AND simple.
-
+Add branch and push to origin.
